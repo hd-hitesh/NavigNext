@@ -70,6 +70,8 @@ public class MapsActivity extends FragmentActivity
     jam j;
     long maxid=0,jamCount=0;
 
+
+
     @Override
     public void finish() {
         super.finish();
